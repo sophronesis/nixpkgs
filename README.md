@@ -18,7 +18,6 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 | [#495068](https://github.com/NixOS/nixpkgs/pull/495068) | attyx | new | merged | me | 2026-02-28 |
 | [#493620](https://github.com/NixOS/nixpkgs/pull/493620) | tetro-tui | new | open | gl1tchxd-git | 2026-02-24 |
 | [#487610](https://github.com/NixOS/nixpkgs/pull/487610) | ultimate-doom-builder | new | merged | me | 2026-02-06 |
-| [#230973](https://github.com/NixOS/nixpkgs/pull/230973) | oscilloscope-terminal | new | open | evils | 2023-05-09 |
 
 ---
 
