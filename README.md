@@ -8,7 +8,7 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 |---|---------|------|--------|--------|------|
 | [#507228](https://github.com/NixOS/nixpkgs/pull/507228) | terminal-oscilloscope | new | open | me | 2026-04-06 |
 | [#507227](https://github.com/NixOS/nixpkgs/pull/507227) | ccmeter | new | open | me | 2026-04-06 |
-| [#505900](https://github.com/NixOS/nixpkgs/pull/505900) | attyx | update | open | r-ryantm | 2026-04-02 |
+| [#505900](https://github.com/NixOS/nixpkgs/pull/505900) | attyx | update | merged | r-ryantm | 2026-04-02 |
 | [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprmod | new | open | me | 2026-03-31 |
 | [#501789](https://github.com/NixOS/nixpkgs/pull/501789) | aimp | new | open | me | 2026-03-20 |
 | [#501444](https://github.com/NixOS/nixpkgs/pull/501444) | fastflix | new | open | me | 2026-03-19 |
