@@ -6,6 +6,7 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 
 | # | package | type | status | author | date |
 |---|---------|------|--------|--------|------|
+| [#511328](https://github.com/NixOS/nixpkgs/pull/511328) | nirimod | new | open | me | 2026-04-19 |
 | [#508537](https://github.com/NixOS/nixpkgs/pull/508537) | attyx | update | open | r-ryantm | 2026-04-10 |
 | [#507228](https://github.com/NixOS/nixpkgs/pull/507228) | terminal-oscilloscope | new | open | me | 2026-04-06 |
 | [#507227](https://github.com/NixOS/nixpkgs/pull/507227) | ccmeter | new | open | me | 2026-04-06 |
@@ -22,4 +23,4 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 
 ---
 
-*last updated: 2026-04-11*
+*last updated: 2026-04-19*
