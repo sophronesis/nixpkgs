@@ -5,7 +5,7 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 ## summary
 
 - **maintained on master**: 2 packages
-- **waiting for merge**: 9 PRs
+- **waiting for merge**: 8 PRs
 
 ## maintained packages
 
@@ -26,7 +26,6 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 | [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprland-schema | new | 2026-03-31 |
 | [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprland-socket | new | 2026-03-31 |
 | [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprland-state | new | 2026-03-31 |
-| [#501789](https://github.com/NixOS/nixpkgs/pull/501789) | aimp | new | 2026-03-20 |
 | [#501444](https://github.com/NixOS/nixpkgs/pull/501444) | fastflix | new | 2026-03-19 |
 | [#499296](https://github.com/NixOS/nixpkgs/pull/499296) | hyprquickframe | new | 2026-03-12 |
 | [#497257](https://github.com/NixOS/nixpkgs/pull/497257) | tetro-tui | new | 2026-03-06 |
@@ -35,6 +34,7 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 
 | # | package | type | status | author | date |
 |---|---------|------|--------|--------|------|
+| [#518114](https://github.com/NixOS/nixpkgs/pull/518114) | attyx | update | merged | r-ryantm | 2026-05-08 |
 | [#518025](https://github.com/NixOS/nixpkgs/pull/518025) | hyprland-preview-share-picker | new | open | me | 2026-05-08 |
 | [#511328](https://github.com/NixOS/nixpkgs/pull/511328) | nirimod | new | open | me | 2026-04-19 |
 | [#508537](https://github.com/NixOS/nixpkgs/pull/508537) | attyx | update | merged | r-ryantm | 2026-04-10 |
@@ -42,7 +42,7 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 | [#507227](https://github.com/NixOS/nixpkgs/pull/507227) | ccmeter | new | open | me | 2026-04-06 |
 | [#505900](https://github.com/NixOS/nixpkgs/pull/505900) | attyx | update | merged | r-ryantm | 2026-04-02 |
 | [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprmod | new | open | me | 2026-03-31 |
-| [#501789](https://github.com/NixOS/nixpkgs/pull/501789) | aimp | new | open | me | 2026-03-20 |
+| [#501789](https://github.com/NixOS/nixpkgs/pull/501789) | aimp | new | closed | me | 2026-03-20 |
 | [#501444](https://github.com/NixOS/nixpkgs/pull/501444) | fastflix | new | open | me | 2026-03-19 |
 | [#499296](https://github.com/NixOS/nixpkgs/pull/499296) | hyprquickframe | new | open | me | 2026-03-12 |
 | [#498085](https://github.com/NixOS/nixpkgs/pull/498085) | ultimate-doom-builder | fix | merged | me | 2026-03-09 |
