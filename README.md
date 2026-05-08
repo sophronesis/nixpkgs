@@ -2,6 +2,35 @@
 
 my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). upstream code lives on the `master` branch.
 
+## summary
+
+- **maintained on master**: 2 packages
+- **waiting for merge**: 9 PRs
+
+## maintained packages
+
+- `attyx`
+- `ultimate-doom-builder`
+
+## waiting for merge
+
+| # | package | type | date |
+|---|---------|------|------|
+| [#518025](https://github.com/NixOS/nixpkgs/pull/518025) | hyprland-preview-share-picker | new | 2026-05-08 |
+| [#511328](https://github.com/NixOS/nixpkgs/pull/511328) | nirimod | new | 2026-04-19 |
+| [#507228](https://github.com/NixOS/nixpkgs/pull/507228) | terminal-oscilloscope | new | 2026-04-06 |
+| [#507227](https://github.com/NixOS/nixpkgs/pull/507227) | ccmeter | new | 2026-04-06 |
+| [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprmod | new | 2026-03-31 |
+| [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprland-config | new | 2026-03-31 |
+| [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprland-monitors | new | 2026-03-31 |
+| [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprland-schema | new | 2026-03-31 |
+| [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprland-socket | new | 2026-03-31 |
+| [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprland-state | new | 2026-03-31 |
+| [#501789](https://github.com/NixOS/nixpkgs/pull/501789) | aimp | new | 2026-03-20 |
+| [#501444](https://github.com/NixOS/nixpkgs/pull/501444) | fastflix | new | 2026-03-19 |
+| [#499296](https://github.com/NixOS/nixpkgs/pull/499296) | hyprquickframe | new | 2026-03-12 |
+| [#497257](https://github.com/NixOS/nixpkgs/pull/497257) | tetro-tui | new | 2026-03-06 |
+
 ## pull requests
 
 | # | package | type | status | author | date |
