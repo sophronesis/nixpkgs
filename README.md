@@ -4,22 +4,28 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 
 ## summary
 
-- **maintained on master**: 13 packages
-- **waiting for merge**: 2 PRs
+- **maintained on master**: 19 packages
+- **waiting for merge**: 0 PRs
 
 ## maintained packages
 
 - `attyx`
 - `ccmeter`
+- `fastflix`
+- `ffmpeg-normalize` (python module)
+- `hyprland-config` (python module)
+- `hyprland-monitors` (python module)
 - `hyprland-preview-share-picker`
+- `hyprland-schema` (python module)
+- `hyprland-socket` (python module)
+- `hyprland-state` (python module)
 - `hyprmod`
 - `hyprquickframe`
+- `iso639-lang` (python module)
 - `nirimod`
-- `python3Packages.hyprland-config`
-- `python3Packages.hyprland-monitors`
-- `python3Packages.hyprland-schema`
-- `python3Packages.hyprland-socket`
-- `python3Packages.hyprland-state`
+- `pgsrip` (python module)
+- `reusables` (python module)
+- `tailcat`
 - `terminal-oscilloscope`
 - `ultimate-doom-builder`
 
@@ -27,17 +33,15 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 
 | # | package | type | date |
 |---|---------|------|------|
-| [#556808](https://github.com/NixOS/nixpkgs/pull/556808) | tailcat | new | 2026-08-26 |
-| [#501444](https://github.com/NixOS/nixpkgs/pull/501444) | fastflix | new | 2026-03-19 |
+
+*(nothing pending - all PRs resolved)*
 
 ## pull requests
 
 | # | package | type | status | author | date |
 |---|---------|------|--------|--------|------|
-| [#556808](https://github.com/NixOS/nixpkgs/pull/556808) | tailcat | new | open | me | 2026-08-26 |
-| [#555321](https://github.com/NixOS/nixpkgs/pull/555321) | hyprland-monitors | update | merged | r-ryantm | 2026-08-22 |
+| [#556808](https://github.com/NixOS/nixpkgs/pull/556808) | tailcat | new | merged | me | 2026-08-26 |
 | [#555314](https://github.com/NixOS/nixpkgs/pull/555314) | nirimod | update | merged | r-ryantm | 2026-08-22 |
-| [#555313](https://github.com/NixOS/nixpkgs/pull/555313) | hyprland-schema | update | merged | r-ryantm | 2026-08-22 |
 | [#555277](https://github.com/NixOS/nixpkgs/pull/555277) | tetro-tui | update | merged | r-ryantm | 2026-08-22 |
 | [#549767](https://github.com/NixOS/nixpkgs/pull/549767) | attyx | update | merged | aaronjheng | 2026-08-06 |
 | [#549760](https://github.com/NixOS/nixpkgs/pull/549760) | attyx | update | closed | aaronjheng | 2026-08-06 |
@@ -63,7 +67,7 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 | [#505900](https://github.com/NixOS/nixpkgs/pull/505900) | attyx | update | merged | r-ryantm | 2026-04-02 |
 | [#505419](https://github.com/NixOS/nixpkgs/pull/505419) | hyprmod | new | merged | me | 2026-03-31 |
 | [#501789](https://github.com/NixOS/nixpkgs/pull/501789) | aimp | new | closed | me | 2026-03-20 |
-| [#501444](https://github.com/NixOS/nixpkgs/pull/501444) | fastflix | new | open | me | 2026-03-19 |
+| [#501444](https://github.com/NixOS/nixpkgs/pull/501444) | fastflix | new | merged | me | 2026-03-19 |
 | [#499296](https://github.com/NixOS/nixpkgs/pull/499296) | hyprquickframe | new | merged | me | 2026-03-12 |
 | [#498085](https://github.com/NixOS/nixpkgs/pull/498085) | ultimate-doom-builder | fix | merged | me | 2026-03-09 |
 | [#497257](https://github.com/NixOS/nixpkgs/pull/497257) | tetro-tui | new | closed | me | 2026-03-06 |
@@ -73,4 +77,4 @@ my packages and issues on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs). ups
 
 ---
 
-*last updated: 2026-08-30*
+*last updated: 2026-08-31*
